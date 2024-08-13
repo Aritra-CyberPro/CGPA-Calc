@@ -12,7 +12,7 @@ This CGPA Calculator is a simple C++ program designed to calculate Cumulative Gr
 1. Clone the repository to your local machine:
 
     ```bash
-    https://github.com/Aritra-ISS/CGPA-Calc.git
+    https://github.com/Aritra-CyberPro/CGPA-Calc.git
     ```
 
 2. Navigate to the directory:
@@ -24,13 +24,13 @@ This CGPA Calculator is a simple C++ program designed to calculate Cumulative Gr
 3. Compile the program:
 
     ```bash
-    g++ main.cpp -o cgpa_calculator
+    g++ main.cpp -o CGPA-Calc
     ```
 
 4. Run the program:
 
     ```bash
-    ./cgpa_calculator
+    ./CGPA-Calc
     ```
 
 5. Follow the on-screen instructions to input grades and credit hours for each course.
